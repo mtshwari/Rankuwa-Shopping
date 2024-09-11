@@ -56,10 +56,10 @@ Welcome to **Rankuwa Shopping** – your one-stop destination for all things ele
 
 ## Screenshots
 
-![Homepage](/Rankuwa-Shopping/images/Screenshot.jpg)
+![Homepage](/images/Screenshot.jpg)
 _Homepage showcasing featured products_
 
-![Product Page](/Rankuwa-Shopping/images/product-page.png)
+![Product Page](/images/product-page.png)
 _Detailed view of a product_
 
 ## Contributing
