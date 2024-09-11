@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 17999.99,
+        "description": "A high-performance laptop for all your computing needs.",
+        "specifications": {
+            "processor": "Intel Core i7",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "screen": "15.6-inch Full HD"
+        },
+        "rating": 4.5,
+        "availability": "In Stock",
+        "image": "laptop.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 11999.99,
+        "description": "A latest-generation smartphone with amazing features.",
+        "specifications": {
+            "processor": "Snapdragon 888",
+            "ram": "8GB",
+            "storage": "128GB",
+            "screen": "6.5-inch AMOLED"
+        },
+        "rating": 4.7,
+        "availability": "In Stock",
+        "image": "smartphone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "category": "Electronics",
+        "price": 6999.99,
+        "description": "A powerful and portable tablet for work and play.",
+        "specifications": {
+            "processor": "Apple A14 Bionic",
+            "ram": "4GB",
+            "storage": "64GB",
+            "screen": "10.2-inch Retina"
+        },
+        "rating": 4.3,
+        "availability": "Out of Stock",
+        "image": "tablet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "category": "Accessories",
+        "price": 149.99,
+        "description": "Noise-cancelling headphones with superior sound quality.",
+        "specifications": {
+            "type": "Over-Ear",
+            "connectivity": "Bluetooth",
+            "battery_life": "20 hours",
+            "noise_cancellation": "Active"
+        },
+        "rating": 4.8,
+        "availability": "In Stock",
+        "image": "headphones.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Charger",
+        "category": "Accessories",
+        "price": 299.99,
+        "description": "Fast charging adapter for all devices.",
+        "specifications": {
+            "type": "USB-C",
+            "output": "18W",
+            "compatibility": "Universal"
+        },
+        "rating": 4.2,
+        "availability": "In Stock",
+        "image": "charger.jpg"
+    }
+]
+
+
