@@ -38,7 +38,7 @@ nav a:hover {
 
 #intro {
     padding: 60px 20px;
-    background: url('../images/intro-background.jpg') no-repeat center center;
+    background: url('../images/background.jpg') no-repeat center center;
     background-size: cover;
     color: #ffffff; /* White for intro section text */
 }
